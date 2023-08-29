@@ -23,7 +23,7 @@ const Cart = () => {
     setTotalAmount(amount);
     // console.log('Cart',Cart)
     // eslint-disable-next-line
-  },[])
+  },[Cart])
 
   return (
   
